@@ -1,0 +1,17 @@
+{
+  "name": "smilela/php-geekhub-library",
+  "description": "GeekHub Third lesson",
+  "type": "library",
+  "authors": [
+    {
+      "name": "DrSmile444",
+      "email": "drsmile444@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Transfer\\": "src/Transfer"
+    }
+  },
+  "require": {}
+}
